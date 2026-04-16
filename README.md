@@ -106,9 +106,9 @@ python bot.py
 
 🔐 Environment Variable
 
-Variable	Description
+Variable	|  Description
 
-DISCORD_BOT_TOKEN	Your Discord bot token
+DISCORD_BOT_TOKEN	 | Your Discord bot token
 
 
 
@@ -124,27 +124,6 @@ If the project grows, it becomes startup-worthy.
 If not, it's still a strong resume-worthy project.
 
 
----
-
-📈 Future Improvements
-
-Weekly recurring schedules
-
-Better UI embeds
-
-Database support (MongoDB / PostgreSQL)
-
-Smart ranking of best time slots
-
-Web dashboard
-
-Google Calendar integration
-
-Voting system for suggested slots
-
-
-
----
 
 🤝 Contributing
 
