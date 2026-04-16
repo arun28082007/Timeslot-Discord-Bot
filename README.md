@@ -85,7 +85,7 @@ Dependencies from your project:
 1. Clone the Repository
 
 git clone https://github.com/arun28082007/Timeslot-Discord-Bot.git
-cd your-repo-name
+cd Timeslot-Discord-Bot
 
 2. Install Dependencies
 
